@@ -2,6 +2,12 @@
 
 This repository contains a portfolio website for "Daniels" created by Ahmed Habeeb. The website showcases the work and services offered by Jerry Daniels, a UI/UX Designer & Web Developer.
 
+
+## Demo
+
+Click [here](https://ahmedhabeeb20.github.io/Daniels/) to view the website.
+
+
 ## Website Sections
 
 1. **Home:** Homepage featuring an introduction to Larry Daniels.
@@ -23,6 +29,8 @@ This repository contains a portfolio website for "Daniels" created by Ahmed Habe
 
 - **Address:** 6834 Hollywood Blvd - Los Angeles, CA
 - **Email:** [contact@daniels.com](mailto:contact@daniels.com)
+
+
 
 ## Usage
 
